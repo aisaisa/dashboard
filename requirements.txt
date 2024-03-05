@@ -6,4 +6,5 @@ plotly
 seaborn
 jupyter
 streamlit
-venv
+joblib
+scikit-learn
